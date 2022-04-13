@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1609508465 source:d:\lectures\ee441\pa3\part1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"HashTable.h"
+
+1609255948 source:d:\lectures\ee441\pa3\part1\src\node.cpp
+	"Node.h"
+
+1609507634 d:\lectures\ee441\pa3\part1\include\node.h
+
+1609255942 source:d:\lectures\ee441\pa3\part1\src\linkedlist.cpp
+	"LinkedList.h"
+
+1609508460 d:\lectures\ee441\pa3\part1\include\linkedlist.h
+	"Node.h"
+
+1609508453 d:\lectures\ee441\pa3\part1\include\hashtable.h
+	<string>
+	"LinkedList.h"
+
+1609508453 source:d:\lectures\ee441\pa3\part1\src\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+	<fstream>
+
